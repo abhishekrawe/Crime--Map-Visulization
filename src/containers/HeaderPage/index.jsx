@@ -5,6 +5,7 @@ import { connect } from 'react-redux';
 import styled from 'styled-components';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faExclamationCircle } from '@fortawesome/free-solid-svg-icons';
+import Logo from "../../asset/Satarklogo.png";
 
 import { Modal } from '../../components';
 
@@ -94,7 +95,7 @@ class Header extends React.PureComponent<Props, State> {
       </div>
       <div>
         <span>If you have any query, please email me, </span>
-        <a href="mailto:abhi953434@gmail.com"> <span>💌</span> abhi953434@gmail.com</a>
+        <a href="mailto:abhi953434@gmail.com"> <span>💌</span>abhi953434@gmail.com</a>
       </div>
     </Message>
   );
@@ -106,7 +107,7 @@ class Header extends React.PureComponent<Props, State> {
     return (
       <HeaderDiv>
         <Title >
-       <span > SATARK </span> - ⚡ TRACK CRIME AROUND YOU ⚡
+         <img src={Logo} style={{width:"50px",height:"50px"}}/> <span > SATARK </span> - ⚡ TRACK CRIME AROUND YOU ⚡
           <InlineDiv onClick={this.toggle} role="button" tabIndex={0} onKeyPress={this.toggle}>
             <FontAwesomeIcon icon={faExclamationCircle} size="sm" />
           </InlineDiv>
