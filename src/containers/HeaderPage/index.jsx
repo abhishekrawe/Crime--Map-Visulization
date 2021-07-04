@@ -88,13 +88,13 @@ class Header extends React.PureComponent<Props, State> {
   renderInfo = color => (
     <Message color={color}>
       <div>
-        <span>Hey 🙋‍♂️ This website shows the criminal information on the map. </span>
+        <span>Hey <span>🙋‍♂️</span> This website shows the criminal information on the map. </span>
         <span>We have only UK data so, The data is retreived from </span>
         <a href="https://data.police.uk" target="_blank" rel="noopener noreferrer">https://data.police.uk</a>
       </div>
       <div>
         <span>If you have any query, please email me, </span>
-        <a href="mailto:abhi953434@gmail.com">💌 abhi953434@gmail.com</a>
+        <a href="mailto:abhi953434@gmail.com"> <span>💌</span> abhi953434@gmail.com</a>
       </div>
     </Message>
   );
