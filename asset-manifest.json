@@ -1,14 +1,14 @@
 {
-  "main.css": "/react-crime-map/static/css/main.e58fb0cd.chunk.css",
-  "main.js": "/react-crime-map/static/js/main.40356a7c.chunk.js",
-  "main.js.map": "/react-crime-map/static/js/main.40356a7c.chunk.js.map",
-  "static/js/1.40d41110.chunk.js": "/react-crime-map/static/js/1.40d41110.chunk.js",
-  "static/js/1.40d41110.chunk.js.map": "/react-crime-map/static/js/1.40d41110.chunk.js.map",
-  "runtime~main.js": "/react-crime-map/static/js/runtime~main.ec97d754.js",
-  "runtime~main.js.map": "/react-crime-map/static/js/runtime~main.ec97d754.js.map",
-  "static/media/Satarklogo.png": "/react-crime-map/static/media/Satarklogo.e8a923ed.png",
-  "static/css/main.e58fb0cd.chunk.css.map": "/react-crime-map/static/css/main.e58fb0cd.chunk.css.map",
-  "index.html": "/react-crime-map/index.html",
-  "precache-manifest.1905886e51ce7e894fc9d8e95188bf11.js": "/react-crime-map/precache-manifest.1905886e51ce7e894fc9d8e95188bf11.js",
-  "service-worker.js": "/react-crime-map/service-worker.js"
+  "main.css": "/crimemap/static/css/main.ab66c947.chunk.css",
+  "main.js": "/crimemap/static/js/main.2160e995.chunk.js",
+  "main.js.map": "/crimemap/static/js/main.2160e995.chunk.js.map",
+  "static/js/1.6a7887df.chunk.js": "/crimemap/static/js/1.6a7887df.chunk.js",
+  "static/js/1.6a7887df.chunk.js.map": "/crimemap/static/js/1.6a7887df.chunk.js.map",
+  "runtime~main.js": "/crimemap/static/js/runtime~main.6eeca4d0.js",
+  "runtime~main.js.map": "/crimemap/static/js/runtime~main.6eeca4d0.js.map",
+  "static/media/Satarklogo.png": "/crimemap/static/media/Satarklogo.e8a923ed.png",
+  "static/css/main.ab66c947.chunk.css.map": "/crimemap/static/css/main.ab66c947.chunk.css.map",
+  "index.html": "/crimemap/index.html",
+  "precache-manifest.96761f8a91fad84ccf3d3da86606d59d.js": "/crimemap/precache-manifest.96761f8a91fad84ccf3d3da86606d59d.js",
+  "service-worker.js": "/crimemap/service-worker.js"
 }
