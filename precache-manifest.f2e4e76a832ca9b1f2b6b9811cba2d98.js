@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/crimemap/static/media/Satarklogo.e8a923ed.png"
   },
   {
-    "revision": "a347dbf412d2e9434ead1b2e4490ec0f",
+    "revision": "781d7e8cdfa51b20ac00e93d2aeb0976",
     "url": "/crimemap/index.html"
   }
 ];
