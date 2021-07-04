@@ -1,7 +1,7 @@
 {
   "main.css": "/crimemap/static/css/main.ab66c947.chunk.css",
-  "main.js": "/crimemap/static/js/main.2160e995.chunk.js",
-  "main.js.map": "/crimemap/static/js/main.2160e995.chunk.js.map",
+  "main.js": "/crimemap/static/js/main.75e0d912.chunk.js",
+  "main.js.map": "/crimemap/static/js/main.75e0d912.chunk.js.map",
   "static/js/1.6a7887df.chunk.js": "/crimemap/static/js/1.6a7887df.chunk.js",
   "static/js/1.6a7887df.chunk.js.map": "/crimemap/static/js/1.6a7887df.chunk.js.map",
   "runtime~main.js": "/crimemap/static/js/runtime~main.6eeca4d0.js",
@@ -9,6 +9,6 @@
   "static/media/Satarklogo.png": "/crimemap/static/media/Satarklogo.e8a923ed.png",
   "static/css/main.ab66c947.chunk.css.map": "/crimemap/static/css/main.ab66c947.chunk.css.map",
   "index.html": "/crimemap/index.html",
-  "precache-manifest.f2e4e76a832ca9b1f2b6b9811cba2d98.js": "/crimemap/precache-manifest.f2e4e76a832ca9b1f2b6b9811cba2d98.js",
+  "precache-manifest.a9ac61e2168e28a1e058138a129b5522.js": "/crimemap/precache-manifest.a9ac61e2168e28a1e058138a129b5522.js",
   "service-worker.js": "/crimemap/service-worker.js"
 }

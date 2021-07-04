@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "2160e995d9e7d452ef6c",
+    "revision": "75e0d912f8fd06718479",
     "url": "/crimemap/static/css/main.ab66c947.chunk.css"
   },
   {
-    "revision": "2160e995d9e7d452ef6c",
-    "url": "/crimemap/static/js/main.2160e995.chunk.js"
+    "revision": "75e0d912f8fd06718479",
+    "url": "/crimemap/static/js/main.75e0d912.chunk.js"
   },
   {
     "revision": "6a7887dfef3cc559c2ae",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/crimemap/static/media/Satarklogo.e8a923ed.png"
   },
   {
-    "revision": "781d7e8cdfa51b20ac00e93d2aeb0976",
+    "revision": "7668753bb866a1ae11e377f61ee3882d",
     "url": "/crimemap/index.html"
   }
 ];
