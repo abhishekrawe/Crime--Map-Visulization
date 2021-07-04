@@ -106,11 +106,11 @@ class Header extends React.PureComponent<Props, State> {
 
     return (
       <HeaderDiv>
-        <Title >
-         <img src={Logo} style={{width:"50px",height:"50px"}}/> <span > SATARK </span> - ⚡ TRACK CRIME AROUND YOU ⚡
+       <Title >
+         <img src={Logo} style={{width:"70px",height:"70px",size:"sm"}}/> <div><span > SATARK </span> - ⚡ TRACK CRIME AROUND YOU ⚡
           <InlineDiv onClick={this.toggle} role="button" tabIndex={0} onKeyPress={this.toggle}>
             <FontAwesomeIcon icon={faExclamationCircle} size="sm" />
-          </InlineDiv>
+          </InlineDiv></div>
         </Title>
         { isMobile && <Modal title="Information" show={toggle} onClose={this.toggle}>{ this.renderInfo('black') }</Modal> }
         { !isMobile && <Info show={toggle}>{ this.renderInfo() }</Info> }
