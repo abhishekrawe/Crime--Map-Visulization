@@ -106,7 +106,7 @@ class Header extends React.PureComponent<Props, State> {
 
     return (
       <HeaderDiv>
-       <Title >
+         <Title >
          <img src={Logo} style={{width:"70px",height:"70px",size:"sm"}}/> <div><span > SATARK </span> - ⚡ TRACK CRIME AROUND YOU ⚡
           <InlineDiv onClick={this.toggle} role="button" tabIndex={0} onKeyPress={this.toggle}>
             <FontAwesomeIcon icon={faExclamationCircle} size="sm" />
