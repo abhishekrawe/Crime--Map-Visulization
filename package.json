@@ -1,4 +1,5 @@
 {
+  "homepage": "https://abhishekrawe.github.io/CrimeMap-Satark",
   "name": "react-crime-map",
   "version": "0.1.0",
   "private": true,
@@ -60,6 +61,6 @@
     "eslint-plugin-jest": "^22.1.2",
     "flow-bin": "^0.110.1",
     "redux-devtools-extension": "^2.13.5"
-  },
-  "homepage": "https://abhishekrawe.github.io/crimemap"
+  }
+  
 }
