@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/crimemap/precache-manifest.a9ac61e2168e28a1e058138a129b5522.js"
+  "/CrimeMap-Satark/precache-manifest.1198e955070658764f5f7cdd86626673.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/crimemap/index.html", {
+workbox.routing.registerNavigationRoute("/CrimeMap-Satark/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });

@@ -1,14 +1,14 @@
 {
-  "main.css": "/crimemap/static/css/main.ab66c947.chunk.css",
-  "main.js": "/crimemap/static/js/main.75e0d912.chunk.js",
-  "main.js.map": "/crimemap/static/js/main.75e0d912.chunk.js.map",
-  "static/js/1.6a7887df.chunk.js": "/crimemap/static/js/1.6a7887df.chunk.js",
-  "static/js/1.6a7887df.chunk.js.map": "/crimemap/static/js/1.6a7887df.chunk.js.map",
-  "runtime~main.js": "/crimemap/static/js/runtime~main.6eeca4d0.js",
-  "runtime~main.js.map": "/crimemap/static/js/runtime~main.6eeca4d0.js.map",
-  "static/media/Satarklogo.png": "/crimemap/static/media/Satarklogo.e8a923ed.png",
-  "static/css/main.ab66c947.chunk.css.map": "/crimemap/static/css/main.ab66c947.chunk.css.map",
-  "index.html": "/crimemap/index.html",
-  "precache-manifest.a9ac61e2168e28a1e058138a129b5522.js": "/crimemap/precache-manifest.a9ac61e2168e28a1e058138a129b5522.js",
-  "service-worker.js": "/crimemap/service-worker.js"
+  "main.css": "/CrimeMap-Satark/static/css/main.cd98caa4.chunk.css",
+  "main.js": "/CrimeMap-Satark/static/js/main.39b80b27.chunk.js",
+  "main.js.map": "/CrimeMap-Satark/static/js/main.39b80b27.chunk.js.map",
+  "static/js/1.6b69033f.chunk.js": "/CrimeMap-Satark/static/js/1.6b69033f.chunk.js",
+  "static/js/1.6b69033f.chunk.js.map": "/CrimeMap-Satark/static/js/1.6b69033f.chunk.js.map",
+  "runtime~main.js": "/CrimeMap-Satark/static/js/runtime~main.849c86b5.js",
+  "runtime~main.js.map": "/CrimeMap-Satark/static/js/runtime~main.849c86b5.js.map",
+  "static/media/Satarklogo.png": "/CrimeMap-Satark/static/media/Satarklogo.e8a923ed.png",
+  "static/css/main.cd98caa4.chunk.css.map": "/CrimeMap-Satark/static/css/main.cd98caa4.chunk.css.map",
+  "index.html": "/CrimeMap-Satark/index.html",
+  "precache-manifest.1198e955070658764f5f7cdd86626673.js": "/CrimeMap-Satark/precache-manifest.1198e955070658764f5f7cdd86626673.js",
+  "service-worker.js": "/CrimeMap-Satark/service-worker.js"
 }
